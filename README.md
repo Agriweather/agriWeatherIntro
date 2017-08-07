@@ -12,11 +12,11 @@
 ## § 計劃介紹
 https://www.youtube.com/watch?v=zLsMbmMASLA
 
-獲獎專案：https://grants.g0v.tw/projects/587873a755fa75001ef55ed4
-粉絲專頁： https://www.facebook.com/agriweather/
-開放社團: https://www.facebook.com/groups/OpenHackFarm/
-協作入口： https://github.com/Agriweather
-跳坑專區：https://hackmd.io/s/rkPlLZbBb
+- 獲獎專案：https://grants.g0v.tw/projects/587873a755fa75001ef55ed4
+- 粉絲專頁： https://www.facebook.com/agriweather/
+- 開放社團: https://www.facebook.com/groups/OpenHackFarm/
+- 協作入口： https://github.com/Agriweather
+- 跳坑專區：https://hackmd.io/s/rkPlLZbBb
 
 ## § 實驗設計
 實驗期間：2017.05-2017.08
