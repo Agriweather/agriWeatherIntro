@@ -10,8 +10,9 @@
 >[「阿龜微氣候天眼通」](https://www.facebook.com/agriweather/)是致力於**讓農業數據更有溫度**的團隊，我們期望能藉由發展農業微氣候應用的工具，讓我國的農友們在從事農務工作的時候，有不一樣的資訊科技工具可以使用。也因此，我們的成果全部開源。歡迎大家一起來交流、跳坑共同協作。
 
 ## § 計劃介紹
-{%youtube zLsMbmMASLA %}
+https://www.youtube.com/watch?v=zLsMbmMASLA
 
+獲獎專案：https://grants.g0v.tw/projects/587873a755fa75001ef55ed4
 粉絲專頁： https://www.facebook.com/agriweather/
 開放社團: https://www.facebook.com/groups/OpenHackFarm/
 協作入口： https://github.com/Agriweather
